@@ -1,7 +1,0 @@
-org\pages\ViewAccountPage.class
-org\pages\OpenAccountPage.class
-org\pages\WithdrawPage.class
-org\DriverFactory.class
-org\pages\HomePage.class
-org\pages\CommonPage.class
-org\pages\DepositPage.class
